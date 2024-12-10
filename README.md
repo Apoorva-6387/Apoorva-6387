@@ -1,4 +1,4 @@
-![logo](https://github.com/Apoorva-6387/Apoorva-6387/blob/main/Blue%20and%20White%20Edgy%20Gaming%20Youtube%20Banner.png)
+![logo](https://github.com/Apoorva-6387/Apoorva-6387/blob/main/apoorva%20banner.png)
 <h1 align="center">Hi 👋, I'm Apoorva Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400"src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
