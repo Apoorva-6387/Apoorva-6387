@@ -16,7 +16,7 @@
 <a href="https://www.codechef.com/users/apoorvasingh33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="apoorvasingh33" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/apoorva33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="apoorva33" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/apoorva33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apoorva33" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/apoorva22k29q(https://www.geeksforgeeks.org/user/apoorva22k29q/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="apoorva22k29q(https://www.geeksforgeeks.org/user/apoorva22k29q/)" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/apoorva22k29q/(https://www.geeksforgeeks.org/user/apoorva22k29q/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="apoorva22k29q(https://www.geeksforgeeks.org/user/apoorva22k29q/)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
