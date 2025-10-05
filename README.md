@@ -1,4 +1,4 @@
-![logo](https://github.com/Apoorva-6387/Apoorva-6387/blob/main/apoorva%20banner.png)
+![logo](https://github.com/Apoorva-6387/Apoorva-6387/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Apoorva Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400"src="https://i.gifer.com/JXA0.gif">
